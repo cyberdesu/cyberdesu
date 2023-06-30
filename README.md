@@ -1,6 +1,6 @@
 ### Hi there, I'm Sured
 
-I am Muhammad Daffa. I am an undergraduate student of **Computer Engineering IPB**. I love to learn anything about cyber security!
+I am Suredsi Ulpada. I am an undergraduate student of **Computer Engineering IPB**. I love to learn anything about cyber security!
 
 - 🌱 I'm currently learning on **Network Pentest**
 
