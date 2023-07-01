@@ -1,8 +1,13 @@
 ### Hi there, I'm Sured
 
 I am Suredsi Ulpada. I am an undergraduate student of **Computer Engineering IPB**. I love to learn anything about cyber security!
-
 - 🌱 I'm currently learning on **Network Pentest**
+<p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Penetration%20Tester&color=red&logo=kalilinux">
+  <img src="https://img.shields.io/static/v1?label=&message=CTF%20Player&color=blueviolet&logo=macos">
+</div>
+</p>
 
 ## Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sured21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suredsi-ulpada) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cyberdesu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) [![](https://visitcount.itsvg.in/api?id=cyberdesu&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
