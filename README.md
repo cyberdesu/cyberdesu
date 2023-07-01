@@ -5,19 +5,8 @@ I am Suredsi Ulpada. I am an undergraduate student of **Computer Engineering IPB
 - 🌱 I'm currently learning on **Network Pentest**
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/suredsi-ulpada/" target="_blank">
-  <img align="left" alt="Sured's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://cyberdesu.medium.com/" target="_blank">
-  <img align="left" alt="Sured's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
-</a>
-<a href="https://cyberdesu.com" target="_blank">
-  <img align="left" alt="Sured's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
-</a>
-<a href="mailto:suredsi21@gmail.com" target="_blank">
-  <img align="left" alt="Sured's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
-</a>
-<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sured21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suredsi-ulpada) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cyberdesu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) [![](https://visitcount.itsvg.in/api?id=cyberdesu&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## GitHub Stats
 <p>
