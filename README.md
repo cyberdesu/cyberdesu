@@ -24,5 +24,5 @@ I am Suredsi Ulpada. I am an undergraduate student of **Computer Engineering IPB
   <img src="https://github-profile-trophy.vercel.app/?username=cyberdesu&theme=onedark&no-frame=true&column=7" />
 </p>
 
-## HackTheBox Stats
+## TryHackMe Stats
 ![cyberdesu](https://tryhackme-badges.s3.amazonaws.com/Cyberweeb.png)
